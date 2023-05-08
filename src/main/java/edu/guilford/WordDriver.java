@@ -22,7 +22,7 @@ import java.util.TreeSet;
 public class WordDriver {
     public static void main(String[] args) {
         // Read the input text file
-        List<String> words = readTextFile("7HabitsWordList.txt");
+        List<String> words = readTextFile("worldcup.txt");
         // print the words
 
         // Create an alphabetical list of all words
